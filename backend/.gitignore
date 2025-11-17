@@ -1,0 +1,6 @@
+__pycache__
+.venv
+*.db
+.env
+migrations
+venv
