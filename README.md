@@ -1,9 +1,6 @@
 🏠 Hostel Hub – A Unified Platform for Hostel Operations
-🔗 Live Application
 
-Frontend: https://hostel-hub-management-system-yzo8.onrender.com/
 
-Backend API: Hosted on Railway
 
 📌 About the Project
 
