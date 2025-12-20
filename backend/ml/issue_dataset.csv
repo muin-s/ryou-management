@@ -1,0 +1,799 @@
+description,category
+Water from the tap smells weird and leaves my bottle cloudy,drinking water
+The supply tastes salty since morning and my throat feels dry,drinking water
+Tap flow is fine but the water color looks slightly yellow,drinking water
+Refilling bottles late night gives stomach issues,drinking water
+The purifier light is on but the water tastes metallic,drinking water
+Cold water dispenser gives warm and odd tasting water,drinking water
+Even after boiling the supply smells strange,drinking water
+The common area tap water feels sticky on hands,drinking water
+Water used for brushing leaves bad aftertaste,drinking water
+Hydration station near stairs gives muddy smell,drinking water
+Morning water caused nausea to multiple students,drinking water
+The overhead tank water tastes different every day,drinking water
+Water is clear but smells like rust,drinking water
+Filling bottles takes long and water tastes stale,drinking water
+After drinking hostel water my bottle develops residue,drinking water
+The filter noise is fine but output tastes bad,drinking water
+Tap water feels oily on lips,drinking water
+Even tea tastes strange because of supply quality,drinking water
+Water source near lift gives bitter taste,drinking water
+The refill point leaks and water tastes odd,drinking water
+Floor near the commode is always wet and slippery,washroom
+The flush works randomly and smells spread to corridor,washroom
+No water pressure in the morning near the sink area,washroom
+Drain gets clogged every two days causing overflow,washroom
+Broken tiles near the basin are dangerous,washroom
+The exhaust fan works but foul smell stays,washroom
+Seat cover is cracked and uncomfortable,washroom
+Water leaks near the tap causing damp walls,washroom
+The mirror area lighting is too dim to use properly,washroom
+Handwash area smells bad even after cleaning,washroom
+Flush button often gets stuck,washroom
+Ceiling above the cubicle is leaking,washroom
+The latch on the door is broken,washroom
+No mug available and bucket is cracked,washroom
+Water accumulates near the drain outlet,washroom
+The floor slope causes water to pool,washroom
+Pipe noise is loud whenever someone uses it,washroom
+Tap knob is loose and sprays everywhere,washroom
+Ventilation grill is clogged with dust,washroom
+Footrest area is damaged and unsafe,washroom
+Ceiling light flickers when exhaust is on,electronics
+Fan regulator sparks when adjusted,electronics
+Tube light makes buzzing sound at night,electronics
+Charging socket is loose and overheats,electronics
+Room fan stops suddenly during night,electronics
+Extension board trips power randomly,electronics
+Switch panel gets warm while using kettle,electronics
+Study lamp stopped working suddenly,electronics
+Wall socket fell out of the board,electronics
+Emergency light does not turn on during cuts,electronics
+The bell switch outside room doesn’t respond,electronics
+Fan speed fluctuates without touching regulator,electronics
+Power socket makes crackling noise,electronics
+Light turns off when fan is turned on,electronics
+Adapter sparks when plugged in,electronics
+Exhaust fan in corridor stopped working,electronics
+Plug point near bed is dead,electronics
+Room heater indicator is on but no heat,electronics
+Switches are broken and stuck inside,electronics
+Night lamp flickers continuously,electronics
+Rice served at night was undercooked,messfood
+Food smells stale during lunch hours,messfood
+Dal tastes sour since yesterday,messfood
+Plates are oily even after washing,messfood
+Breakfast items are often cold,messfood
+Vegetables served are half raw,messfood
+Chapatis are hard and chewy,messfood
+Milk smells off in the morning,messfood
+Curry consistency changes daily,messfood
+Food quantity is inconsistent,messfood
+Serving spoons are dirty,messfood
+Lunch had too much salt,messfood
+Snacks are repetitive every day,messfood
+Watermelon served was spoiled,messfood
+Dinner timing is irregular,messfood
+Utensils smell bad,messfood
+Oil quality seems poor,messfood
+Food counter area attracts flies,messfood
+Tea tastes diluted,messfood
+Breakfast eggs are overboiled,messfood
+Chair leg is broken and unstable,furniture
+Study table surface is peeling,furniture
+Wardrobe door does not close,furniture
+Bed frame makes noise at night,furniture
+Shelf plank is cracked,furniture
+Desk drawer stuck,furniture
+Chair backrest is loose,furniture
+Bed support rod bent,furniture
+Table wobbles while writing,furniture
+Cupboard lock is jammed,furniture
+Mattress is uneven,furniture
+Side table handle missing,furniture
+Wooden edges are sharp,furniture
+Chair cushion is torn,furniture
+Desk height uneven,furniture
+Wardrobe hinge broken,furniture
+Bed wheels missing,furniture
+Table screws are loose,furniture
+Cupboard shelf collapsed,furniture
+Chair makes cracking sound,furniture
+Room smells dusty even after sweeping,room cleanign
+Dust accumulates under the bed,room cleanign
+Cobwebs near ceiling corners,room cleanign
+Trash not collected for two days,room cleanign
+Floor remains sticky after mopping,room cleanign
+Window sill covered with dirt,room cleanign
+Bedsheet area not cleaned properly,room cleanign
+Room corners have insects,room cleanign
+Cleaning staff skipped our room,room cleanign
+Room smells musty,room cleanign
+Dust on fan blades falling down,room cleanign
+Spilled food stain not removed,room cleanign
+Garbage bin not emptied,room cleanign
+Mop water smells bad,room cleanign
+Sweeping done carelessly,room cleanign
+Under-table area untouched,room cleanign
+Bathroom-adjacent wall has stains,room cleanign
+Room floor still muddy,room cleanign
+Dust everywhere after cleaning,room cleanign
+Cleaning schedule irregular,room cleanign
+WiFi drops frequently at night,internet
+Online class buffers continuously,internet
+Network slow near bed area,internet
+Signal disappears during rain,internet
+High latency while gaming,internet
+Pages take long to load,internet
+Video calls keep disconnecting,internet
+Speed fluctuates randomly,internet
+Router light blinks red,internet
+Connection fails after midnight,internet
+Cannot connect more than one device,internet
+Signal strength weak inside room,internet
+Frequent authentication errors,internet
+Uploads fail repeatedly,internet
+Internet freezes during exams,internet
+Speed very slow on weekends,internet
+Network not reachable sometimes,internet
+Router reboots on its own,internet
+Login page doesn’t load,internet
+Streaming quality drops suddenly,internet
+Lift stops between floors,others
+Corridor lights remain off at night,others
+Room door key stuck,others
+Water leakage from ceiling in corridor,others
+Noise from construction nearby,others
+Security guard not present late night,others
+Common area clock not working,others
+Entry gate sensor malfunctioning,others
+Fire alarm rings without reason,others
+Staircase railing loose,others
+Common room TV not accessible,others
+Elevator makes loud noise,others
+Notice board glass broken,others
+Common fridge smells bad,others
+CCTV camera angle wrong,others
+Emergency exit blocked,others
+Parking area lights off,others
+Visitor log not maintained,others
+Power backup delayed,others
+Common area fans not working,others
+Water tastes earthy after evening refill,drinking water
+The bottle gets slimy film after one day use,drinking water
+Cold water tap gives foul smell,drinking water
+Refill station water makes tea bitter,drinking water
+Water leaves white stains on container,drinking water
+Morning supply tastes different from night,drinking water
+Water causes itching on lips,drinking water
+Tap water smells like plastic,drinking water
+Purified outlet gives cloudy liquid,drinking water
+After drinking hostel supply many felt sick,drinking water
+Flush tank takes too long to refill,washroom
+Water splashes outside when flushing,washroom
+Strong odor near the cubicle door,washroom
+Drain cover is missing and unsafe,washroom
+Wall tiles have fungus growth,washroom
+Tap keeps dripping all night,washroom
+Floor mat always soaked,washroom
+The latch cannot be locked properly,washroom
+Vent fan is extremely noisy,washroom
+Ceiling paint peeling due to moisture,washroom
+Switchboard sparks when light is turned on,electronics
+Fan makes rattling sound,electronics
+Charging point stops working intermittently,electronics
+Tube light flickers continuously,electronics
+Extension socket smells burnt,electronics
+Power cuts reset all devices,electronics
+Fan speed very low even at max,electronics
+Wall switch is broken,electronics
+Night bulb stopped suddenly,electronics
+Emergency light battery dead,electronics
+Lunch rice had stones mixed,messfood
+Vegetables smelled rotten,messfood
+Breakfast served very late,messfood
+Food portion reduced suddenly,messfood
+Dal too watery,messfood
+Chapati edges burnt,messfood
+Milk packet curdled,messfood
+Snacks taste stale,messfood
+Oil floating on curry,messfood
+Plates not cleaned properly,messfood
+Study chair leg cracked,furniture
+Table drawer handle missing,furniture
+Bed shakes on slight movement,furniture
+Wardrobe shelf bent,furniture
+Chair height uneven,furniture
+Desk surface sticky,furniture
+Cupboard door scrapes floor,furniture
+Bed support loose,furniture
+Table corner broken,furniture
+Chair makes squeaking noise,furniture
+Dust layers on cupboard top,room cleanign
+Room smells of dampness,room cleanign
+Garbage left overnight,room cleanign
+Floor corners not swept,room cleanign
+Cobwebs near tube light,room cleanign
+Dust falls from fan,room cleanign
+Stains remain on floor,room cleanign
+Cleaning skipped for two days,room cleanign
+Bin liner not replaced,room cleanign
+Room feels unhygienic,room cleanign
+Internet disconnects during calls,internet
+Speed drops at night,internet
+Signal weak near window,internet
+Connection times out frequently,internet
+Pages load very slowly,internet
+WiFi unavailable in morning,internet
+Router restarts automatically,internet
+Network unstable during exams,internet
+Streaming buffers a lot,internet
+Login keeps failing,internet
+Lift door jams often,others
+Corridor smells of garbage,others
+Common area lights flicker,others
+Staircase slippery,others
+Entry gate not opening,others
+Fire alarm beeps randomly,others
+Common fridge leaking water,others
+Parking lights not working,others
+Security camera not functional,others
+Emergency exit locked,others
+Water tastes metallic after cleaning,drinking water
+Bottle refill tastes stale overnight,drinking water
+Supply smells chlorinated,drinking water
+Water leaves bitter aftertaste,drinking water
+Tap water causes stomach pain,drinking water
+Refill point very slow,drinking water
+Water smells like algae,drinking water
+Cold dispenser not cooling properly,drinking water
+Water looks milky sometimes,drinking water
+Refill tap leaks constantly,drinking water
+Flush handle broken,washroom
+Water backs up from drain,washroom
+Strong ammonia smell inside,washroom
+Floor tiles cracked,washroom
+Tap handle missing,washroom
+Cubicle door does not shut,washroom
+Ceiling dripping continuously,washroom
+Water pressure extremely low,washroom
+Sink clogged with hair,washroom
+Vent blocked with dust,washroom
+Socket sparks when plug removed,electronics
+Fan stops when light turned off,electronics
+Power board loose,electronics
+Tube light turns dim,electronics
+Switch panel cracked,electronics
+Charging phone very slow,electronics
+Fan motor overheats,electronics
+Plug point burnt marks,electronics
+Night lamp flickers,electronics
+Exhaust fan dead,electronics
+Food smells oily,messfood
+Rice overcooked,messfood
+Curry lacks salt,messfood
+Breakfast repetitive,messfood
+Food counter messy,messfood
+Utensils greasy,messfood
+Vegetables undercooked,messfood
+Milk diluted,messfood
+Snacks cold,messfood
+Dinner served late,messfood
+Bed plank broken,furniture
+Table screws missing,furniture
+Chair arm loose,furniture
+Cupboard lock stuck,furniture
+Desk wobbles,furniture
+Mattress uneven,furniture
+Shelf collapsed,furniture
+Table leg cracked,furniture
+Chair cushion flat,furniture
+Wardrobe hinge loose,furniture
+Room not swept properly,room cleanign
+Dust everywhere,room cleanign
+Garbage smells bad,room cleanign
+Floor sticky,room cleanign
+Corners ignored,room cleanign
+Bin overflowing,room cleanign
+Cleaning water dirty,room cleanign
+Room smells musty,room cleanign
+Dust under bed,room cleanign
+Cobwebs visible,room cleanign
+WiFi signal drops,internet
+Internet very slow,internet
+High ping issues,internet
+Network unstable,internet
+Pages not loading,internet
+Streaming blurry,internet
+Frequent disconnections,internet
+Router error lights,internet
+Login portal hangs,internet
+Internet unavailable,internet
+Lift noisy,others
+Hall lights off,others
+Door lock jammed,others
+Ceiling leak,others
+Common TV broken,others
+Notice board damaged,others
+CCTV not recording,others
+Gate sensor faulty,others
+Backup power delayed,others
+Common fan broken,others
+Water tastes muddy after rain,drinking water
+Refill point water feels warm and odd,drinking water
+Tap supply leaves black particles,drinking water
+Water smells like iron pipes,drinking water
+Bottle develops strange foam,drinking water
+Drinking supply causes acidity,drinking water
+Water feels heavy to drink,drinking water
+Refill station tastes different every hour,drinking water
+Water leaves dryness in mouth,drinking water
+Supply smells like damp tank,drinking water
+Flush keeps running nonstop,washroom
+Water spreads outside cubicle,washroom
+Strong smell near drainage corner,washroom
+Floor always slippery even when dry,washroom
+Seat feels unstable,washroom
+Tap sprays water sideways,washroom
+Wall near basin stained,washroom
+Door hinge rusted,washroom
+Ceiling fan vent dripping,washroom
+Bucket smells bad,washroom
+Fan vibrates violently,electronics
+Switch makes clicking sound,electronics
+Socket sparks while charging,electronics
+Light goes dim randomly,electronics
+Extension cord overheats,electronics
+Fan stops after few minutes,electronics
+Power point loose in wall,electronics
+Night lamp flickers fast,electronics
+Adapter trips fuse,electronics
+Exhaust stops suddenly,electronics
+Food tastes reheated,messfood
+Rice smells old,messfood
+Dal causes stomach upset,messfood
+Vegetables too oily,messfood
+Chapati half cooked,messfood
+Milk tastes sour,messfood
+Snacks soggy,messfood
+Curry watery,messfood
+Breakfast bland,messfood
+Utensils sticky,messfood
+Chair shakes while sitting,furniture
+Desk corner chipped,furniture
+Bed creaks loudly,furniture
+Wardrobe shelf loose,furniture
+Table tilts forward,furniture
+Chair fabric torn,furniture
+Bed frame rusted,furniture
+Drawer does not slide,furniture
+Cupboard smells damp,furniture
+Table surface cracked,furniture
+Room smells dusty,room cleanign
+Sweeping skipped often,room cleanign
+Garbage bin leaking,room cleanign
+Floor stains remain,room cleanign
+Cobwebs spreading fast,room cleanign
+Dust on study table,room cleanign
+Room corners ignored,room cleanign
+Mop water dirty,room cleanign
+Cleaning rushed badly,room cleanign
+Room feels unhygienic,room cleanign
+Internet drops during meetings,internet
+WiFi slow after sunset,internet
+Signal weak near door,internet
+Network times out,internet
+Uploads failing often,internet
+Streaming freezes,internet
+High delay in games,internet
+Router disconnects,internet
+Login page loops,internet
+Connection unstable,internet
+Lift stuck briefly,others
+Corridor lights dim,others
+Door key bends,others
+Ceiling paint falling,others
+Common area noisy,others
+Security missing late,others
+Fire alarm beeps,others
+Stair rail loose,others
+Common fridge dirty,others
+Parking dark,others
+Water tastes chalky,drinking water
+Supply smells like chemicals,drinking water
+Bottle refill leaves residue,drinking water
+Water causes throat irritation,drinking water
+Tap water cloudy,drinking water
+Refill point leaking badly,drinking water
+Water tastes flat,drinking water
+Cold supply not cold,drinking water
+Water smells like moss,drinking water
+Purifier output inconsistent,drinking water
+Flush button stuck,washroom
+Water backs into floor,washroom
+Foul smell spreads quickly,washroom
+Drain gurgles loudly,washroom
+Tap knob missing,washroom
+Floor cracks widening,washroom
+Ceiling damp patches,washroom
+Vent fan rattles,washroom
+Door latch loose,washroom
+Sink drains slowly,washroom
+Switch panel loose,electronics
+Fan speed fluctuates,electronics
+Socket burnt marks,electronics
+Tube light flickers,electronics
+Power trips often,electronics
+Fan heats up,electronics
+Charging slow,electronics
+Light switches jam,electronics
+Night bulb dead,electronics
+Emergency light off,electronics
+Food smells smoky,messfood
+Rice too dry,messfood
+Curry overspiced,messfood
+Breakfast delayed,messfood
+Vegetables stale,messfood
+Milk watery,messfood
+Snacks cold,messfood
+Food quantity less,messfood
+Plates greasy,messfood
+Tea tasteless,messfood
+Bed leg uneven,furniture
+Chair back loose,furniture
+Desk shakes badly,furniture
+Cupboard hinge broken,furniture
+Mattress sagging,furniture
+Shelf cracked,furniture
+Table screws loose,furniture
+Chair padding flat,furniture
+Wardrobe door stuck,furniture
+Side table broken,furniture
+Dust under bed,room cleanign
+Room smells musty,room cleanign
+Garbage not cleared,room cleanign
+Floor sticky spots,room cleanign
+Corners full of dust,room cleanign
+Fan blades dusty,room cleanign
+Cleaning irregular,room cleanign
+Room feels dirty,room cleanign
+Cobwebs visible,room cleanign
+Bin overflowing,room cleanign
+WiFi unstable,internet
+Internet very slow,internet
+Frequent disconnects,internet
+High ping,internet
+Pages fail load,internet
+Streaming blurry,internet
+Router rebooting,internet
+Network drops often,internet
+Login fails,internet
+No connectivity,internet
+Lift noisy,others
+Hall lights off,others
+Door jammed,others
+Ceiling leak,others
+Common TV dead,others
+Notice board cracked,others
+CCTV angle wrong,others
+Gate sensor fails,others
+Backup power late,others
+Common fan broken,others
+Water feels unusually thick while drinking,drinking water
+The refill outlet gives water with soap-like smell,drinking water
+Bottle cap smells bad after filling from common tap,drinking water
+Water leaves white powder at bottom of bottle,drinking water
+Even cold supply tastes flat and lifeless,drinking water
+Refill water causes burping and discomfort,drinking water
+Water smells fine initially but tastes bad later,drinking water
+The drinking tap produces foamy bubbles sometimes,drinking water
+Water leaves dryness on tongue after drinking,drinking water
+After refilling bottle the smell changes in few hours,drinking water
+Water splashes onto corridor when using the flushing system,washroom
+The cubicle floor feels slimy even after drying,washroom
+Bad odor increases whenever water is used,washroom
+Tap handle rotates endlessly without control,washroom
+Floor joints have black deposits growing,washroom
+Water accumulates near entrance of cubicle,washroom
+Steam does not escape and makes breathing uncomfortable,washroom
+The latch rusted and cannot be opened easily,washroom
+Water sprays directly onto clothes area,washroom
+Drain vibrates loudly during usage,washroom
+Fan suddenly slows down when lights are switched on,electronics
+Charging adapter heats up unusually fast,electronics
+Room light dims whenever someone plugs a device,electronics
+Switch plate cracked exposing wiring,electronics
+Fan produces burning smell after running long,electronics
+Socket sparks only during night usage,electronics
+Power board shuts off randomly,electronics
+Light flickers when door is opened,electronics
+Charging stops unless plug is held tight,electronics
+Fan stops working after voltage fluctuation,electronics
+Rice feels sticky and smells reheated,messfood
+Vegetables taste frozen and thawed,messfood
+Food served feels leftover from previous meal,messfood
+Gravy smells different from usual,messfood
+Snacks lose freshness within minutes,messfood
+Food causes acidity to many students,messfood
+Lunch items lack consistency in taste,messfood
+Breakfast items taste underseasoned,messfood
+Food plates leave oily smell on hands,messfood
+Tea smells burnt,messfood
+Chair tilts backward slightly while sitting,furniture
+Table surface vibrates while writing,furniture
+Wardrobe emits creaking sound while opening,furniture
+Bed edge feels unstable near legs,furniture
+Shelf bends under light weight,furniture
+Chair legs uneven causing imbalance,furniture
+Table corners feel loose,furniture
+Cupboard panel slightly detached,furniture
+Bed joints produce clicking noise,furniture
+Desk shakes when leaning,furniture
+Room smells stale even after sweeping,room cleanign
+Dust settles back quickly after cleaning,room cleanign
+Floor cleaning leaves greasy patches,room cleanign
+Garbage smell lingers in room,room cleanign
+Cleaning done without moving furniture,room cleanign
+Corners remain untouched during cleaning,room cleanign
+Mop spreads smell instead of cleaning,room cleanign
+Room feels dusty within hours,room cleanign
+Garbage bin cleaned irregularly,room cleanign
+Floor feels gritty under feet,room cleanign
+Connection works but extremely laggy,internet
+Network disconnects during online exams,internet
+Signal drops when many users connect,internet
+Internet freezes during file uploads,internet
+Router takes long to reconnect,internet
+Connection unstable after power cuts,internet
+Internet speed drops drastically at night,internet
+Network fails during video meetings,internet
+Connection requires repeated login,internet
+Internet pauses randomly,internet
+Corridor smells damp after rain,others
+Emergency signage not visible,others
+Main gate makes loud noise while opening,others
+Common area seating damaged,others
+Staircase lights turn off suddenly,others
+Notice board information outdated,others
+Security response delayed at night,others
+Lift indicator malfunctioning,others
+Common area water leakage,others
+Fire extinguisher seal broken,others
+Dead insects found near corridor corners after pest spray,others
+Strong chemical smell lingers in hallway after pest control,others
+Food plates left near drainage causing bad smell,others
+Stray animals licking leftover plates near dining area,others
+Corridor floor has sticky patches after cleaning,others
+Staircase smells foul due to waste accumulation,others
+Common area attracts insects in the evening,others
+Garbage bags kept overnight in corridor,others
+Lift smells bad after trash movement,others
+Common area floor slippery after rain,others
+Hair found mixed in gravy during dinner,messfood
+Foreign object noticed in cooked vegetables,messfood
+Food had very few vegetables compared to gravy,messfood
+Rice contained hard particles,messfood
+Snacks tasted stale and rubbery,messfood
+Curry looked diluted and watery,messfood
+Food smelled fine but tasted odd,messfood
+Dal had unusual texture,messfood
+Chapati surface had dark spots,messfood
+Plate edges were greasy,messfood
+Bottle refill tastes normal but causes nausea later,drinking water
+Water leaves chalky residue on bottle walls,drinking water
+Cold supply tastes different from hot supply,drinking water
+Water smells fine but feels heavy,drinking water
+Refill tap gives inconsistent taste,drinking water
+Water causes bloating after consumption,drinking water
+Supply leaves white layer after drying,drinking water
+Bottle smells bad after few hours,drinking water
+Water feels warm even during night,drinking water
+Refill outlet dripping continuously,drinking water
+Drain water flows back near feet area,washroom
+Cubicle floor remains wet for hours,washroom
+Bad smell increases during peak usage,washroom
+Tap sprays water uncontrollably,washroom
+Water pressure suddenly drops,washroom
+Door latch jammed often,washroom
+Moisture buildup on walls,washroom
+Ceiling stains spreading,washroom
+Floor joints turning black,washroom
+Vent makes rattling noise,washroom
+Fan vibrates at high speed,electronics
+Charging point sparks occasionally,electronics
+Light dims when multiple devices used,electronics
+Socket loose and unsafe,electronics
+Switchboard plate cracked,electronics
+Fan speed inconsistent,electronics
+Night light turns off randomly,electronics
+Power strip heats up,electronics
+Emergency light not charging,electronics
+Extension wire smells burnt,electronics
+Chair leg uneven causing imbalance,furniture
+Bed frame shakes while turning,furniture
+Wardrobe shelf bending,furniture
+Desk surface chipped,furniture
+Chair back support loose,furniture
+Table moves while studying,furniture
+Cupboard door scrapes floor,furniture
+Bed joints noisy,furniture
+Drawer stuck frequently,furniture
+Mattress feels sunken,furniture
+Dust settles back quickly after cleaning,room cleanign
+Garbage bin smells strong,room cleanign
+Floor remains oily after mop,room cleanign
+Cleaning skipped on weekends,room cleanign
+Cobwebs growing fast,room cleanign
+Dust visible on shelves,room cleanign
+Room smells stale,room cleanign
+Corners untouched during cleaning,room cleanign
+Under-bed area ignored,room cleanign
+Room feels unhygienic,room cleanign
+Connection slows down during evening hours,internet
+Speed drops when many users connect,internet
+Video calls lag badly,internet
+Connection unstable during exams,internet
+Uploads fail repeatedly,internet
+Network pauses randomly,internet
+Signal weak near bed area,internet
+Router disconnects briefly,internet
+Login required multiple times,internet
+Streaming buffers continuously,internet
+toilet is blocked,washroom
+toilet is leaking,washroom
+my floor is not clean,room cleaning
+my floor is wet,room cleaning
+my floor is dirty, room cleaning
+washbasin is leaking,washroom
+washbasin's tap is leaking,washroom
+washbasin is leaking water,washroom
+washbasin is choked,washroom
+my shoes are missing,others
+snacks were bad,messfood
+breakfast was terrible,messfood
+dinner was prettly sad,messfood
+snacks and breakfast dinner all bad,messfood
+snacks,messfood
+breakfast,messfood
+dinner,messfood
+my floor,room cleaning
+washbasin,washroom
+toilet,washroom
+commod,washroom
+contaminated,drinking water
+salty,drinking water
+metallic,drinking water
+cloudy,drinking water
+bitter,drinking water
+stale,drinking water
+murky,drinking water
+chlorinated,drinking water
+yellowish,drinking water
+foamy,drinking water
+rusty,drinking water
+warm,drinking water
+smelly,drinking water
+oily,drinking water
+unfiltered,drinking water
+slippery,washroom
+leakage,washroom
+clogged,washroom
+overflowing,washroom
+smelly,washroom
+damp,washroom
+cracked,washroom
+unstable,washroom
+rusted,washroom
+dripping,washroom
+blocked,washroom
+stained,washroom
+jammed,washroom
+broken,washroom
+flooded,washroom
+sparking,electronics
+flickering,electronics
+dead,electronics
+overheating,electronics
+buzzing,electronics
+unstable,electronics
+burnt,electronics
+loose,electronics
+tripping,electronics
+faulty,electronics
+crackling,electronics
+blinking,electronics
+dim,electronics
+resetting,electronics
+inactive,electronics
+spoiled,messfood
+undercooked,messfood
+oily,messfood
+stale,messfood
+burnt,messfood
+bland,messfood
+sour,messfood
+cold,messfood
+watery,messfood
+greasy,messfood
+salty,messfood
+dry,messfood
+smelly,messfood
+repetitive,messfood
+unclean,messfood
+wobbly,furniture
+broken,furniture
+loose,furniture
+cracked,furniture
+unstable,furniture
+squeaky,furniture
+bent,furniture
+jammed,furniture
+torn,furniture
+uneven,furniture
+rusted,furniture
+shaky,furniture
+collapsed,furniture
+damaged,furniture
+peeling,furniture
+dusty,room cleanign
+dirty,room cleanign
+sticky,room cleanign
+messy,room cleanign
+unclean,room cleanign
+ignored,room cleanign
+smelly,room cleanign
+damp,room cleanign
+grimy,room cleanign
+filthy,room cleanign
+untouched,room cleanign
+overflowing,room cleanign
+muddy,room cleanign
+unswept,room cleanign
+polluted,room cleanign
+laggy,internet
+slow,internet
+unstable,internet
+offline,internet
+buffering,internet
+dropping,internet
+frozen,internet
+timedout,internet
+disconnected,internet
+unreachable,internet
+weak,internet
+delayed,internet
+glitchy,internet
+restricted,internet
+fluctuating,internet
+jammed,others
+broken,others
+noisy,others
+dark,others
+locked,others
+faulty,others
+damaged,others
+unsafe,others
+missing,others
+blocked,others
+inactive,others
+delayed,others
+misaligned,others
+unstable,others
+unavailable,others
+contaminant,drinking water
+aftertaste,drinking water
+sediment,drinking water
+impure,drinking water
+odor,drinking water
+pressureless,washroom
+gurgling,washroom
+seepage,washroom
+malfunction,electronics
+shortcircuit,electronics
+spoiling,messfood
+infested,messfood
+collapsed,furniture
+dustlayer,room cleanign
+latency,internet
+outage,internet
+obstruction,others
